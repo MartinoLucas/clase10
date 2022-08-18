@@ -1,0 +1,64 @@
+*{
+	font-family: 'Quicksand', sans-serif;
+	padding: 0px;
+	margin: 0px;
+	/*background-color: #7bc5c1;*/
+}
+
+.bg-main{
+	background-image: url(../img/pasto.jpg);
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+	/*color: #7bc5c1;*/
+	color: #000;
+}
+
+.img-cetr{
+	text-align: center;
+}
+
+h1{
+	
+	padding: 15px;
+	background-color: #7bc5c1;
+	text-align: center;
+	border: solid 3px #cfc5c1;
+}
+
+.p-main{
+	padding: 5px;
+	color: #000;
+	line-height: 1.5;
+	background-color: #eab875;
+	text-align: center;
+}
+
+header{
+	background-color: #7bc5c1;
+	height: 90px;
+}
+
+ul li{
+	margin: 5px;
+	padding: 5px;
+	background-color: #e1c7a5;
+	display: inline-block;
+}
+
+.nav{
+	
+	text-align: right;
+	position: relative;
+	bottom: 80px;
+}
+
+
+
+.foot div{
+	padding: 10px;
+	background-color: #7bc5c1;
+	text-align: center;
+}
